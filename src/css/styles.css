@@ -79,3 +79,8 @@ body {
   text-transform: uppercase;
   letter-spacing: 1px;
 }
+
+fieldset {
+  width: 360px;
+  height: 72px;
+}
