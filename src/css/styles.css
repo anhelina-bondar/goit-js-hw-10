@@ -12,15 +12,11 @@
 
 /* Sections style */
 @import url('./header.css');
-@import url('./vite-promo.css');
-@import url('./badges.css');
-@import url('./back-link.css');
 
 body {
   font-family: Arial, sans-serif;
   display: flex;
   flex-direction: column;
-
   padding: 50px;
   background-color: #ffffff;
 }
